@@ -9,3 +9,5 @@ Playground to future project including:
 * Continuous integration deployment of model 
   > propossed languages: elixir, clojure, etc.
 * APIfication of services
+* Analysis of music signals
+* generation of rw melodies
